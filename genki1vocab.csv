@@ -131,16 +131,16 @@
 〜えん,〜円,...yen,2
 たかい,高い,expensive,2
 いらっしゃいませ,,Welcome (to our store),2
-（〜を）おねがいします,,..., please.,2
+（〜を）おねがいします,,"..., please.",2
 （〜を）ください,,Please give me...,2
-じゃあ,,then...; if that is the case,...,2
+じゃあ,,"then...; if that is the case,...",2
 （〜を）どうぞ,,Here it is.,2
 どうも,,Thank you.,2
 えいが,映画,movie,3
 おんがく,音楽,music,3
 ざっし,雑誌,magazine,3
 スポーツ,,sports,3
-デート,,date (romantic, not calendar),3
+デート,,"date (romantic, not calendar)",3
 テニス,,tennis,3
 テレビ,,TV,3
 ビデオ,,video tape; VCR,3
@@ -532,7 +532,7 @@ Tシャツ,,T-shirt,7
 ねむい,眠い,sleepy,10
 かんたん,簡単,easy; simple,10
 かかる,,to take (amount of time / money),10
-とまる,泊まる,to stay (at a hotel, etc.),10
+とまる,泊まる,"to stay (at a hotel, etc.)",10
 なる,,to become,10
 はらう,払う,to pay,10
 きめる,決める,to decide,10
@@ -597,7 +597,7 @@ Tシャツ,,T-shirt,7
 くもり,曇り,cloudy weather,12
 しあい,試合,match; game,12
 ジュース,,juice,12
-せいせき,成績,grade (on a test, etc.),12
+せいせき,成績,"grade (on a test, etc.)",12
 せき,咳,cough,12
 のど,,throat,12
 は,歯,tooth,12
@@ -676,7 +676,7 @@ Tシャツ,,T-shirt,7
 やくそくをまもる,約束を守る,to keep a promise,13
 かんどうする,感動する,to be moved/touched (by ...),13
 いらっしゃいます,,(someone honorable) is present/home,13
-じつは,実は,as a matter of fact, ...,13
+じつは,実は,"as a matter of fact, ...",13
 ぜんぶ,全部,all,13
 いちにち,一日,one day,13
 ふつか,二日,two days,13
@@ -689,7 +689,7 @@ Tシャツ,,T-shirt,7
 ここのか,九日,nine days,13
 とおか,十日,ten days,13
 よろしくおねがいします,よろしくお願いします,Thank you (in advance),13
-ぬいぐるみ,,stuffed animal (e.g., teddy bear),14
+ぬいぐるみ,,"stuffed animal (e.g., teddy bear)",14
 あに,兄,(my) older brother,14
 おおやさん,大家さん,landlord,14
 おかえし,お返し,return (as a token of gratitude),14
@@ -805,7 +805,7 @@ Tシャツ,,T-shirt,7
 アイロンをかける,,to iron (clothes),16
 あつめる,集める,to collect,16
 いれる,入れる,to put (something) in,16
-のりおくれる,乗り遅れる,to miss (a train, bus, etc.),16
+のりおくれる,乗り遅れる,"to miss (a train, bus, etc.)",16
 みせる,見せる,to show,16
 あさねぼうする,朝寝坊する,to oversleep,16
 あんないする,案内する,to show (someone) around,16
@@ -849,19 +849,19 @@ Tシャツ,,T-shirt,7
 たからくじにあたる,宝くじに当たる,to win a lottery,17
 ぬぐ,脱ぐ,to take off (clothes),17
 ひげをそる,,to shave one's beard,17
-いれる,,to make tea, coffee, etc.,17
+いれる,,"to make tea, coffee, etc.",17
 かぎをかける,,to lock,17
 たりる,足りる,to be sufficient; to be enough,17
 なれる,慣れる,to get used to...,17
 けしょうする,化粧する,to put makeup on,17
 しゅうしょくする,就職する,to get a full-time job (at...),17
-する,,to wear small items (necktie, watch, etc.),17
+する,,"to wear small items (necktie, watch, etc.)",17
 りこんする,離婚する,to get a divorce,17
 おめでとうございます,,Congratulations!,17
 じぶん,自分,oneself,17
 ずいぶん,,very,17
 そうか,,I see. (casual),17
-それに,,moreover, ...,17
+それに,,"moreover, ...",17
 たとえば,例えば,for example,17
 〜にくらべて,〜に比べて,compared with ...,17
 〜によると,,according to ...,17
@@ -909,7 +909,7 @@ Tシャツ,,T-shirt,7
 ちゅうもんする,注文する,to place an order,18
 いますぐ,今すぐ,right away,18
 おかげで,,thanks to ...,18
-おさきにしつれいします,お先に失礼します,See you. (lit., I'm leaving ahead of you.),18
+おさきにしつれいします,お先に失礼します,"See you. (lit., I'm leaving ahead of you.)",18
 おつかれさまでした,お疲れ様でした,You must be tired after working so hard. (ritualistic expression),18
 ほんとうに,本当に,really,18
 まず,,first of all,18
@@ -935,7 +935,7 @@ Tシャツ,,T-shirt,7
 まちがい,間違い,mistake,19
 なかがいい,仲がいい,be on good/close terms; to get along well,19
 まじめ,,serious; sober; diligent,19
-いらっしゃる,,honorific expression for いく, くる, and いる,19
+いらっしゃる,,"honorific expression for いく, くる, and いる",19
 おくる,送る,to walk/drive (someone),19
 おこる,怒る,to get angry,19
 おっしゃる,,honorific expression for いう,19
@@ -1007,10 +1007,10 @@ Tシャツ,,T-shirt,7
 おや,,Oh!,20
 〜かい,〜階,...th floor,20
 かしこまりました,,Certainly.,20
-さあ,,I am not sure, ...,20
+さあ,,"I am not sure, ...",20
 しつれいしました,失礼しました,I'm very sorry,20
 しょうしょう,少々,a few seconds,20
-それでは,,if that is the case, ...,20
+それでは,,"if that is the case, ...",20
 できれば,,if possible,20
 まことに,誠に,really (very polite),20
 また,,again,20
@@ -1054,7 +1054,7 @@ Tシャツ,,T-shirt,7
 ふむ,踏む,to step on,21
 ふる,,to turn down (somebody); to reject; to jilt,21
 やく,焼く,to bake,21
-やる,,to give (to pets, plants, younger siblings, etc.),21
+やる,,"to give (to pets, plants, younger siblings, etc.)",21
 いじめる,,to bully,21
 きがえる,着替える,to change clothes,21
 ためる,,to save money,21
@@ -1153,7 +1153,7 @@ Tシャツ,,T-shirt,7
 ちがう,違う,to be different; wrong,23
 なくなる,,to be lost; to disappear,23
 わるぐちをいう,悪口を言う,to talk behind someone's back,23
-うける,受ける,to take (an examination, interview, etc.),23
+うける,受ける,"to take (an examination, interview, etc.)",23
 かえる,換える,to change,23
 はなれる,離れる,(something/someone) separates; parts from,23
 〜かおをする,〜顔をする,to look ...(facial expression),23
